@@ -2,7 +2,7 @@ pipeline{
 	agent {
 		label{
 		    label "qa"
-		    customWorkspace "/mnt/tejas"
+		    customWorkspace "/mnt/mrunal"
 			
 			}
 		}
